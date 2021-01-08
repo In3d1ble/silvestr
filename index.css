@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+    border-width: 1920px;
+    /* font-family: 'Hachi Maru Pop', cursive; */
+    font-family: 'Redressed', cursive;
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e570e7+0,c85ec7+47,a849a3+100;Pink+3D+%233 */
+background: rgb(229,112,231); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(229,112,231,1) 0%, rgba(200,94,199,1) 47%, rgba(168,73,163,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(229,112,231,1) 0%,rgba(200,94,199,1) 47%,rgba(168,73,163,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(229,112,231,1) 0%,rgba(200,94,199,1) 47%,rgba(168,73,163,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e570e7', endColorstr='#a849a3',GradientType=0 ); /* IE6-9 */
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+
+h1 {
+    position: fixed;
+    font-size: 700%;
+    padding: 10% 25%;
+}
+
+p {
+    position: fixed;
+    font-size: 400%;
+    padding: 17% 30% 60% 20%;
+}
+
+.foto {
+    padding: 3% 4% 0% 70%;
+}
+
+<img src="example.png" >
+
